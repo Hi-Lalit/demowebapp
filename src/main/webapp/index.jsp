@@ -128,7 +128,7 @@
 <body>
 
   <header>
-    <h1>Shaurya Institute of Technology</h1>
+    <h1>Utkarsh Institute of Technology</h1>
     <p>Empowering the Future Through Innovation and Education</p>
     <button class="login-btn" onclick="openLogin()">Login</button>
   </header>
