@@ -143,7 +143,7 @@
   </nav>
 
   <section id="home">
-    <h2>Welcome to Shaurya Institute of Technology</h2>
+    <h2>Welcome to Utkarsh Institute of Technology</h2>
     <p>We are committed to providing quality technical education and fostering innovation and leadership in students.</p>
   </section>
 
