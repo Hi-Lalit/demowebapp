@@ -149,7 +149,7 @@
 
   <section id="about">
     <h2>About Us</h2>
-    <p>Shaurya Institute of Technology, established in 2010, has been a beacon of knowledge and excellence in technical education, producing skilled professionals who excel across industries.</p>
+    <p>Utkarsh Institute of Technology, established in 2010, has been a beacon of knowledge and excellence in technical education, producing skilled professionals who excel across industries.</p>
   </section>
 
   <section id="courses">
